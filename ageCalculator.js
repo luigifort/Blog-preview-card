@@ -6,3 +6,4 @@ console.log(month);
 const year = date.getFullYear();
 console.log(year);
 const var1 = "var1"
+const var2= "var2"
